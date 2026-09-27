@@ -6,13 +6,13 @@ Backend / Distributed Systems / Infrastructure / MLOps
 
 ## Current Focus
 
-Pending initial assessment and prioritization.
+DSA baseline complete; begin arrays and hashing fundamentals. Other tracks await assessment and prioritization.
 
 ## Track Status
 
 | Track | Status | Current Focus |
 | --- | --- | --- |
-| DSA | Not Started | |
+| DSA | Active | Day 1 — Arrays + Hashing fundamentals |
 | Go | Not Started | |
 | Backend & Distributed Systems | Not Started | |
 | System Design | Not Started | |
@@ -22,8 +22,8 @@ Pending initial assessment and prioritization.
 
 ## Current Weaknesses
 
-Pending assessment.
+DSA baseline identified invariant reasoning, triangular-loop complexity, hashing pattern recognition, boundary checks, and Go map/set mechanics as areas to reinforce. Other tracks are pending assessment.
 
 ## Next Actions
 
-Pending; establish after the learning tracks are assessed.
+Begin Day 1 DSA work with an attempt-first arrays and hashing exercise.
